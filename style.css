@@ -1,0 +1,41 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+button {
+    border: 1px solid lightgray;
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 4px;
+
+}
+
+.button {
+    display: block;
+    background-color: #bbb;
+  }
+
+.result {
+    height: 60px;
+    background-color: #bbb;
+    width: 100%;
+  }
+  
+  .result p {
+    font-size: 40px;
+    margin: 5px;
+  
+  }
+  
+  .calculator-body {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  
+  
