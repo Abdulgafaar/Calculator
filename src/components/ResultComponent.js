@@ -1,7 +1,7 @@
-import React, { PureComponent } from 'react'
+import React, { PureComponent, Component } from 'react'
 
 
-class extends ResultComponent{
+class ResultComponent extends Component{
     constructor(){
         super()
        
